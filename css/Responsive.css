@@ -1,0 +1,371 @@
+@media screen and (max-width: 1196px) {
+    .Top-text h1{
+        font-size: 1.5rem;
+        width: 350px;
+    }
+    .Top-text p{
+        font-size: 0.7rem;
+        width: 365px;
+    }
+    .Top-button {
+        width: 495px;
+    }
+    .middle h1{
+        font-size: 1.5rem;
+        width: 400px;
+    }
+    .middle p{
+        line-height: 1rem;
+        font-size: 0.7rem;
+        width: 370px;
+    }
+    .align h4{
+        font-size: 0.8rem;
+    }
+    .align img{
+        width: 15px;
+        height: 15px;
+    }
+    .box p{
+        line-height: 1rem;
+        font-size: 0.7rem;
+        width: 250px;
+    }
+    .owner{
+        line-height: 1rem;
+    }
+    .owner h4{
+        font-size: 0.7rem;
+    }
+    .owner p{
+        font-size: 0.6rem;
+    }
+    .wrapper3{
+        gap: 7rem;
+    }
+    .moles h1{
+        font-size: 1.5rem;
+    }
+    .moles p{
+        font-size: 0.6rem;
+        width: 290px;
+    }
+}
+@media screen and (max-width: 847px) {
+    .header img{
+        width: 80px;
+        height: 23px;
+    }
+    .Top{
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+    .Top-img{
+        width: 100%;
+        height: 100%;
+        margin-top: 5rem;
+        padding-left: 3rem;
+    }
+    .Top-text{
+        width: 400px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 3rem;
+    }
+    .Top-text h1{
+        line-height: 1.5;
+        font-size: 2rem;
+        width: 400px;
+        text-align: center;
+    }
+    .Top-text p{
+        line-height: 1.5;
+        font-size: 1rem;
+        width: 340px;
+        text-align: center;
+    }
+    .Top-button{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;    
+        width: 340px;   
+        margin-bottom: 15px;
+    }
+    .Top-button input{
+        width: 390px;
+        height: 35px;
+        font-size: 0.8rem;
+        padding-left: 0.9rem;
+        margin-bottom: 15px;
+    }
+    .Top-button button{
+        width: 390px;
+        height: 32px;
+        font-size: 0.8rem;
+    }
+    .wrapper2{
+        background-image: url(../images/bg-curve-mobile.svg);
+        background-repeat: repeat;
+        background-position: center;
+        background-size: cover;
+        border-radius: 50%/10% 10% 0 0; /* Adjust these values as needed */
+        overflow: hidden;
+        width: 100%; /* Set the width as needed */
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+    .middle{
+        margin-top: 5rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+    }
+    .middle h1{
+        font-size: 2rem;
+        width: 550px;
+        text-align: center;
+    }
+    .middle p{
+        line-height: 1.5;
+        font-size: 1rem;
+        width: 360px;
+        text-align: center;
+    }
+    .align h4{
+        font-size: 1rem;
+    }
+    .align img{
+        width: 20px;
+        height: 20px;
+    }
+    .box{
+        display: none
+    }
+    .wrapper3{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .moles{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+    }
+    .moles h1{
+        font-size: 2rem;
+    }
+    .moles p{
+        font-size: 1rem;
+        width: 310px;
+        text-align: center;
+    }
+    .down-button{
+        width: 340px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        margin-top: -5rem;
+    }
+    .down-button input{
+        width: 390px;
+        height: 40px;
+        font-size: 0.8rem;
+        padding-left: 0.9rem;
+        margin-bottom: 12px;
+    }
+    .down-button button{
+        width: 390px;
+        height: 40px;
+        font-size: 0.8rem;
+    }
+    .wrapper4{
+        padding-right: 3rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+}
+@media screen and (max-width: 506px) {
+    .Top-text{
+        width: 400px;
+    }
+    .Top-button input{
+        width: 340px;
+        height: 35px;
+        font-size: 0.8rem;
+        padding-left: 0.9rem;
+        margin-bottom: 15px;
+    }
+    .Top-button button{
+        width: 340px;
+        height: 32px;
+        font-size: 0.8rem;
+    }
+    .middle h1{
+        font-size: 1.5rem;
+        width: 400px;
+    }
+    .wrapper4{
+        padding-right: 3rem;
+    }
+    .moles h1{
+        text-align: center;
+        font-size: 1.8  rem;
+        width: 400px;
+    }
+    .moles p{
+        font-size: 0.8rem;
+        width: 250px;
+    }
+    .down-button input{
+        width: 340px;
+        height: 35px;
+        font-size: 0.8rem;
+        padding-left: 0.9rem;
+        margin-bottom: 15px;
+    }
+    .down-button button{
+        width: 340px;
+        height: 32px;
+        font-size: 0.8rem;
+    }
+}
+@media screen and (max-width: 409px) {  
+    .Top-text{
+        width: 376px;display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .Top-text h1{
+        font-size: 1.1rem;
+        width: 220px;
+    }
+    .Top-text p{
+        font-size: 0.6rem;
+        width: 230px;
+    }
+    .Top-button{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .Top-button input{
+        width: 220px;
+        height: 35px;
+        font-size: 0.8rem;
+        padding-left: 0.9rem;
+        margin-bottom: 15px;
+    }
+    .Top-button button{
+        width: 220px;
+        height: 32px;
+        font-size: 0.8rem;
+    }
+    .middle h1{
+        font-size: 1.1rem;
+        width: 300px;
+    }
+    .middle p{
+        font-size: 0.6rem;
+        width: 220px;
+    }
+}
+@media screen and (max-width: 376px) {
+    .Top{
+        width: 365px;
+    }
+    .Top-text{
+        width: 340px;
+    }
+    .Top-text h1{
+        font-size: 1rem;
+        width: 220px;
+    }
+    .Top-text p{
+        font-size: 0.6rem;
+        width: 230px;
+    }
+    .Top-button{
+        width: 100%;
+    }
+    .Top-button input{
+        width: 290px;
+        height: 35px;
+        font-size: 0.8rem;
+        padding-left: 0.9rem;
+        margin-bottom: 15px;
+    }
+    .Top-button button{
+        width: 290px;
+        height: 32px;
+        font-size: 0.8rem;
+    }
+    .middle h1{
+        font-size: 1.5rem;
+        width: 300px;
+    }
+    .middle p{
+        font-size: 0.8rem;
+        width: 250px;
+    }
+    .align h4{
+        font-size: 0.8rem;
+    }
+    .align img{
+        width: 15px;
+        height: 15px;
+    }
+    .box p{
+        font-size: 0.8rem;
+        width: 250px;
+    }
+    .owner{
+        line-height: 1rem;
+    }
+    .owner h4{
+        font-size: 0.8rem;
+    }
+    .owner p{
+        font-size: 0.6rem;
+    }
+    .wrapper3{
+        gap: 7rem;
+    }
+    .moles h1{
+        font-size: 1.5rem;
+    }
+    .moles p{
+        font-size: 0.8rem;
+        width: 250px;
+    }
+    .down-button input{
+        width: 290px;
+        height: 35px;
+        font-size: 0.8rem;
+        padding-left: 0.9rem;
+        margin-bottom: 15px;
+    }
+    .down-button button{
+        width: 290px;
+        height: 32px;
+        font-size: 0.8rem;
+    }
+    
+}
